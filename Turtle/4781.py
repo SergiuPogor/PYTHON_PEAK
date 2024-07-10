@@ -1,10 +1,8 @@
-import random
 import turtle
-
+import random
 
 def random_color():
     return random.randint(0, 255), random.randint(0, 255), random.randint(0, 255)
-
 
 def draw_pattern():
     screen = turtle.Screen()
@@ -33,7 +31,6 @@ def draw_pattern():
 
     artist.hideturtle()
     screen.mainloop()
-
 
 if __name__ == "__main__":
     draw_pattern()
