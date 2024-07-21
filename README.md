@@ -41,7 +41,7 @@ For more information about Python, visit the [official Python website](https://w
 2. **Access the Code Examples:** Each video description contains a link to the corresponding code example in this repository.
 3. **Clone the Repository:** If you want to have all the examples locally, you can clone the repository using:
    ```sh
-   git clone https://github.com/yourusername/PythonPeak.git
+   git clone https://github.com/SergiuPogor/PythonPeak.git
    cd PythonPeak
    ```
 
