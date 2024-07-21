@@ -2,13 +2,11 @@
 
 ![Python Logo](https://www.python.org/static/img/python-logo.png)
 
-<p align="left">
-  <img src="https://yt3.googleusercontent.com/lp2GaTHSj8SUIP1c7_vH2vDtZNh-w1_csWX7uob6dFubZpBzepTYjM5YRSnqiShqPnmXoGhkSg=s160-c-k-c0x00ffffff-no-rj" alt="PythonPeak" width="150" style="float: left; margin-right: 20px;">
-  Welcome to the Python Code Examples Repository! 
-This repository is designed to complement my YouTube channel, PythonPeak, where I provide comprehensive tutorials on various Python programming topics. Here, you'll find the code examples demonstrated in each video, helping you to learn and practice Python effectively.
-</p>
+![PythonPeak](https://yt3.googleusercontent.com/lp2GaTHSj8SUIP1c7_vH2vDtZNh-w1_csWX7uob6dFubZpBzepTYjM5YRSnqiShqPnmXoGhkSg=s160-c-k-c0x00ffffff-no-rj)
 
-#
+Welcome to the Python Code Examples Repository!
+This repository is designed to complement my YouTube channel, PythonPeak, where I provide comprehensive tutorials on various Python programming topics.
+Here, you'll find the code examples demonstrated in each video, helping you to learn and practice Python effectively.
 
 ## 📖 Table of Contents
 
