@@ -1,8 +1,14 @@
-# 🌟 PythonPeak | Python Code Examples Repository 📹
+# 🌟 Python Code Examples 📹
 
-Welcome to the Python Code Examples Repository! This repository is designed to complement my YouTube channel, PythonPeak, where I provide comprehensive tutorials on various Python programming topics. Here, you'll find the code examples demonstrated in each video, helping you to learn and practice Python effectively.
+![Python Logo](https://www.python.org/static/img/python-logo.png)
 
-![Python Logo](https://www.python.org/community/logos/python-logo-master-v3-TM.png)
+<p align="left">
+  <img src="https://yt3.googleusercontent.com/lp2GaTHSj8SUIP1c7_vH2vDtZNh-w1_csWX7uob6dFubZpBzepTYjM5YRSnqiShqPnmXoGhkSg=s160-c-k-c0x00ffffff-no-rj" alt="PythonPeak" width="150" style="float: left; margin-right: 20px;">
+  Welcome to the Python Code Examples Repository! 
+This repository is designed to complement my YouTube channel, PythonPeak, where I provide comprehensive tutorials on various Python programming topics. Here, you'll find the code examples demonstrated in each video, helping you to learn and practice Python effectively.
+</p>
+
+#
 
 ## 📖 Table of Contents
 
@@ -10,14 +16,14 @@ Welcome to the Python Code Examples Repository! This repository is designed to c
 - [🌐 About Python](#-about-python)
     - [Key Features of Python](#key-features-of-python)
 - [💻 How to Use This Repository](#-how-to-use-this-repository)
-- [📹 PythonPeak YouTube Channel](https://www.youtube.com/@PythonPeak)
+- [📹 @PythonPeak YouTube Channel](https://www.youtube.com/@PythonPeak)
 - [🤝 Contributing](#-contributing)
 - [📜 License](#-license)
 - [📬 Contact](#-contact)
 
 ## 🌟 Introduction
 
-Welcome! This repository contains Python code examples that accompany the tutorials on my [PythonPeak](https://www.youtube.com/@PythonPeak) channel. Each example is designed to help you understand and master Python programming concepts through practical demonstration.
+Welcome! This repository contains Python code examples that accompany the tutorials on my [@PythonPeak](https://www.youtube.com/@PythonPeak) channel. Each example is designed to help you understand and master Python programming concepts through practical demonstration.
 
 ## 🌐 About Python
 
@@ -34,7 +40,7 @@ For more information about Python, visit the [official Python website](https://w
 
 ## 💻 How to Use This Repository
 
-1. **Watch the YouTube Videos:** Start by visiting my [PythonPeak](https://www.youtube.com/@PythonPeak) channel and watching the tutorials.
+1. **Watch the YouTube Videos:** Start by visiting my [@PythonPeak](https://www.youtube.com/@PythonPeak) channel and watching the tutorials.
 2. **Access the Code Examples:** Each video description contains a link to the corresponding code example in this repository.
 3. **Clone the Repository:** If you want to have all the examples locally, you can clone the repository using:
    ```sh
