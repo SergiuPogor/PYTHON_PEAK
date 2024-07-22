@@ -8,7 +8,7 @@ screen.bgcolor("white")
 
 # Create the turtle
 pie_chart = turtle.Turtle()
-pie_chart.speed(0)  # Fastest speed
+pie_chart.speed(5)
 
 # Function to generate random color
 def random_color():
@@ -32,9 +32,10 @@ for angle in angles:
     pie_chart.circle(100, angle)
     pie_chart.left(90)
     pie_chart.forward(100)
-    pie_chart.end_fill()
+    pie_chart.end_fill()  
     
-    	start_angle += angle
+    # increment  
+    start_angle += angle
 
 # Hide the turtle and display the result
 pie_chart.hideturtle()
