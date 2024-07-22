@@ -1,6 +1,5 @@
-import random
 import turtle
-
+import random
 
 def draw_circle(t, x, y, radius, color):
     t.penup()
