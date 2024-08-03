@@ -1,0 +1,17 @@
+Ellipsis
+False
+None
+NotImplemented
+True
+__debug__
+__doc__
+__name__
+__package__
+__pybind11_internals_v4_gcc_libstdcpp_cxxabi1014__
+__spec__
+copyright
+credits
+exit
+help
+license
+quit
