@@ -30,3 +30,4 @@ read_file_with_custom_buffer(input_path, buffer_size)
 # Write data to file using a custom buffer size
 data_to_write = b'Some large data...' * 1000  # Example data
 write_file_with_custom_buffer(output_path, data_to_write, buffer_size)
+
