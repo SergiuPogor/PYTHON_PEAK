@@ -22,3 +22,6 @@ b = 37
 print(f"Binary addition of {a} and {b} is: {binary_addition(a, b)}")
 
 
+
+
+
