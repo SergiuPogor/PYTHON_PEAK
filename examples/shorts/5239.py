@@ -20,3 +20,4 @@ b = 37
 
 # Print the result of binary addition
 print(f"Binary addition of {a} and {b} is: {binary_addition(a, b)}")
+
