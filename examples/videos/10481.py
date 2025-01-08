@@ -24,5 +24,5 @@ def main():
     print(f"Unpacked - Title: {title}, Author: {author}, Year: {year}, Genre: {genre}")
 
 # Uncomment to run the main function
-# if __name__ == "__main__":
-#     main()
+if __name__ == "__main__":
+    main()
