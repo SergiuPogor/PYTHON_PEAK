@@ -3,7 +3,13 @@ store_inventory = {}
 
 # Function to add items to nested dictionary with setdefault
 def add_item(category: str, subcategory: str, item: str, quantity: int):
-    store_inventory.setdefault(category, {}).setdefault(subcategory, {})[item] = \
+    # Initialize category and subcategory dictionaries if not already present
+    if category not in store_inventory:
+        store_inventory[category] = {}
+    if subcategory not in store_inventory[category]:
+        store_inventory[category][subcategory] = {}
+    # Add or update the item quantity
+    store_inventory[category][subcategory][item] = \
         store_inventory[category][subcategory].get(item, 0) + quantity
 
 # Sample entries for store_inventory
@@ -67,3 +73,4 @@ for category, subcategories in store_inventory.items():
         print(f"  Subcategory: {subcategory}")
         for item, quantity in items.items():
             print(f"    {item}: {quantity}")
+
